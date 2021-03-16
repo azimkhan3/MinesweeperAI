@@ -12,6 +12,7 @@ class Minesweeper():
     """
     Minesweeper game representation
     """
+#checking branches
 
     def __init__(self, height=8, width=8, mines=8):
 
